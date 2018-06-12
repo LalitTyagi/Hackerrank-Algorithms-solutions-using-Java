@@ -3,7 +3,6 @@ import java.util.*;
 
 public class Kangaroo {
     public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		Scanner in = new Scanner(System.in);
 		int x1,x2,v1,v2;
 		
